@@ -112,11 +112,12 @@ enum class LocationType(val id: Int) {
      * As [SLOPED_ROOF_OVERHANG_OUTER_CORNER], but with a seam running vertically.
      */
     SLOPED_ROOF_OVERHANG_HARD_OUTER_CORNER(21),
-
+    /**
     /**
      * A decoration positioned on the floor.
      */
     FLOOR_DECORATION(22),
+    */
 
     TILE_PAINT(30),
     TILE_MODEL(31);
