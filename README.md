@@ -2,7 +2,7 @@ All i did was comment out vegitation in "LocationType.KT"
 original description:
 
 ## Credits:
-no vegitation edit based on[@ConnorDY]([https://github.com/tpetrychyn](https://github.com/ConnorDY))'s [OSRS-Environment-Exporter](https://github.com/ConnorDY/OSRS-Environment-Exporter).
+no vegitation edit based on [@ConnorDY]([https://github.com/tpetrychyn](https://github.com/ConnorDY))'s [OSRS-Environment-Exporter](https://github.com/ConnorDY/OSRS-Environment-Exporter).
 
 # OSRS Environment Exporter
 
