@@ -1,3 +1,9 @@
+All i did was comment out vegitation in "LocationType.KT"
+original description:
+
+## Credits:
+no vegitation edit based on[@ConnorDY]([https://github.com/tpetrychyn](https://github.com/ConnorDY))'s [OSRS-Environment-Exporter](https://github.com/ConnorDY/OSRS-Environment-Exporter).
+
 # OSRS Environment Exporter
 
 Tool for exporting Old School RuneScape environments so that they can be used in 3D modeling programs like Blender.
